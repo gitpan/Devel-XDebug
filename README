@@ -1,4 +1,4 @@
-Module Devel::XDebug version 0.0.1.
+Module Devel::XDebug version 0.0.2.
 -----------------------------------
 This module can make reports about
 program variables. This feature

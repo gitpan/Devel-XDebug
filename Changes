@@ -1,5 +1,10 @@
 Devel::XDebug Changes Log(by versions).
 
-0.01 - Basic version. Can dump refs, scalars,
+0.0.1 - Basic version. Can dump refs, scalars,
 arrays, hash-arrays and simple data. Good
 for good start.
+
+0.0.2 - Report view improved.
+Error with cyclic references will be detected now
+during dump. Extended return codes. Such a good
+stability...
