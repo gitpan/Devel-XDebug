@@ -1,0 +1,5 @@
+Devel::XDebug Changes Log(by versions).
+
+0.01 - Basic version. Can dump refs, scalars,
+arrays, hash-arrays and simple data. Good
+for good start.

@@ -1,0 +1,7 @@
+Makefile.PL
+MANIFEST
+lib/Devel/XDebug.pm
+t/t.t
+README
+INSTALL
+MANIFEST.SKIP

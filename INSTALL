@@ -1,0 +1,14 @@
+Devel::XDebug installation notes.
+----------------------------------
+Type in the command line following
+commands:
+	perl Makefile.PL
+	make
+	make test
+	make install
+If you have any problems, put the
+file ./lib/Devel/XDebug.pm to the
+PERL_DIR/lib/Devel/ directory,
+where PERL_DIR is the directory
+with your perl interpreter.
+----------------------------------

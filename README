@@ -1,0 +1,19 @@
+Module Devel::XDebug version 0.0.1.
+-----------------------------------
+This module can make reports about
+program variables. This feature
+may help when debugging scripts
+with multiple data constuctions.
+-----------------------------------
+Requires: <nothing>
+
+Limitation: can't dump typeglobs or
+functions.
+
+Stability: stable.
+
+Known bugs: <no bugs known>
+
+Author: Edward Chernenko.
+Spectrum<specpc@yandex.ru>
+-----------------------------------
